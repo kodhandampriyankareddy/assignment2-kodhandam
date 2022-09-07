@@ -26,15 +26,9 @@ The **National Museum** of the American Indian cares <br> for one of the worlds 
 A table for the places to visit
 
 | Name of the city | Location to visit | Amount of time to spend |
-
 | --- | --- | ---: |
-
 | Las angeles | Hollywood Sign | 1 Hour |
-
 | Denmark| Hall of Fame | 2 Hours |
-
 | San Diago | Wonderla | 3 Hours|
-
 | Boston| Hotel shanthi | 4 Hours|
-
 _ _ _
