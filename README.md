@@ -32,3 +32,15 @@ A table for the places to visit
 | San Diago | Wonderla | 3 Hours|
 | Boston| Hotel shanthi | 4 Hours|
 _ _ _
+# Quotes
+>Success is most often achieved by those who don’t know that failure is inevitable. – ***Coco Chanel***
+>I refuse to accept other people’s ideas of happiness for me. As if there’s a one size fits all standard for happiness.  – ***Kanye West***
+
+_ _ _
+# code fencing
+>Basics of HTML
+[Link](https://www.w3schools.com/html/html_basic.asp)
+```
+<a href="mailto:someone@yoursite.com">Email Us</a> 
+```
+[snippet](https://css-tricks.com/snippets/html/mailto-links/)
