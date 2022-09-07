@@ -27,7 +27,7 @@ A table for the places to visit
 
 | Name of the city | Location to visit | Amount of time to spend |
 
-| --- | --- | --- |
+| --- | --- | ---: |
 
 | Las angeles | Hollywood Sign | 1 Hour |
 
