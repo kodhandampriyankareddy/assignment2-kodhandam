@@ -19,7 +19,7 @@ The **National Museum** of the American Indian cares <br> for one of the worlds 
 * Gokul chat
 * Google Office.
 ***
-[aboutme fiel](AboutMe.md)
+[aboutme file](AboutMe.md)
 ---
 # Table for visiting places in the USA
 
